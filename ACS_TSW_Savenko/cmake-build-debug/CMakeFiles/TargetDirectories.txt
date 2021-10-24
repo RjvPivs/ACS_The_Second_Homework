@@ -1,0 +1,3 @@
+C:/Users/Savch/Desktop/ACW_TFH_Savenko/ACS_TSW_Savenko/cmake-build-debug/CMakeFiles/ACS_TFW_Savenko.dir
+C:/Users/Savch/Desktop/ACW_TFH_Savenko/ACS_TSW_Savenko/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Savch/Desktop/ACW_TFH_Savenko/ACS_TSW_Savenko/cmake-build-debug/CMakeFiles/rebuild_cache.dir
